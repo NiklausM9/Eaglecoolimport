@@ -1,7 +1,7 @@
 # EagleImport
 EagleImport is a python script to Batch Import your Web Bookmarks to Eagle.cool app
 
-#How to use the script:
+# How to use the script:
 
 The script is very easy to use. Just create a CSV file with the following columns:
 
